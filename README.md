@@ -1,2 +1,3 @@
-# IFSP-SaoPaulo-02-2021
-Código desenvolvidos ao longo do primeiro semestre do curso de Tecnologia em Análise e Desenvolvimento de Sistemas no IFSP Campus São Paulo
+# 1º Semestre de Análise e Desenvolvimento de Sistemas
+No segundo semestre de 2021, após enfrentar e superar os desafios e adversidades impostos pela COVID-19 nos anos de 2020 e 2021, decidi retomar meus estudos em programação. Apesar de ter quase concluído um curso técnico, percebi que ele não atendia às minhas expectativas. Motivado por isso, decidi buscar novos desafios e ampliar meus conhecimentos.
+Foi nesse contexto que ingressei no curso de Tecnologia em Análise e Desenvolvimento de Sistemas (TADS) no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus São Paulo. Aqui, encontrei a oportunidade de explorar e aprofundar meu conhecimento no vasto universo da programação. Aqui são dados meus primeiros passos nessa jornada.
